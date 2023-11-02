@@ -26,5 +26,14 @@ We will explore an end to end data engineering project that uses docker, Apache 
 2. Data Processing: Airflow schedules spark jobs to process the raw data. The processed data can either be aggregated, filtered, or transformed based on my business logic
 
 3. Data Storage: The processing data is stored in either Mongo DB or PostgreSQL for relational data storage.
+   ![Screenshot (28)](https://github.com/adunajiye/Kafka_Data_Pipeline/assets/80220180/6263cc13-cd0c-47f5-ac9a-80d64a57ecb6)
+   
+
   
-4. Orchestartion: Docker container encapsulate each component of the architecture , ensuring isolation and ease of deployment.
+5. Orchestartion: Docker container encapsulate each component of the architecture , ensuring isolation and ease of deployment.
+
+
+# Architecture Diagram
+![Architecture Diagram](https://github.com/adunajiye/Kafka_Data_Pipeline/assets/80220180/bf923bca-c7d7-4ef5-ba77-4b0793137a73)
+
+
