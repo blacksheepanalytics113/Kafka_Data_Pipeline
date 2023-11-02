@@ -27,6 +27,8 @@ We will explore an end to end data engineering project that uses docker, Apache 
 
 3. Data Storage: The processing data is stored in either Mongo DB or PostgreSQL for relational data storage.
    ![Screenshot (28)](https://github.com/adunajiye/Kafka_Data_Pipeline/assets/80220180/6263cc13-cd0c-47f5-ac9a-80d64a57ecb6)
+   ![Screenshot (27)](https://github.com/adunajiye/Kafka_Data_Pipeline/assets/80220180/cde001dd-c1fb-468d-b612-79158593df4e)
+
    
 
   
